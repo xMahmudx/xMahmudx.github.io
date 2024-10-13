@@ -1,2 +1,2 @@
 # xMahmudx.github.io
-#This a portfolio design. built using ReactJS
+#This a personal portfolio design. built using ReactJS
